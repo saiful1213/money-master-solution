@@ -1,0 +1,15 @@
+header h1{
+ text-align: center;
+}
+
+.left-div{
+ width: 50%;
+ padding: 20px;
+ float: left;
+ clear: both;
+}
+.right-div{
+ width: 50%;
+ float: right;
+ clear: both;
+}
